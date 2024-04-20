@@ -17,9 +17,11 @@
 
 ## 1. Presentació de l'alumne <a name="presentacio-de-lalumne"></a>
 
-El meu nom és Emilio Fernández Vicente i estic cursant el Cicle de Grau Superior de [Desenvolupament d'Aplicacions Web](https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0032/0155e929-9014-48a5-ab28-aa6e8e75e554/BOE_GS_Aplic_web.pdf) a l'Institut Nicolau Copèrnic, a Terrassa, la meva ciutat natal.
+El meu nom és Emilio Fernández Vicente i estic cursant el Cicle de Grau Superior de [Desenvolupament d'Aplicacions Web](https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0032/0155e929-9014-48a5-ab28-aa6e8e75e554/BOE_GS_Aplic_web.pdf) a l'Institut Nicolau Copèrnic, a la meva ciutat, Terrassa.
 
-A una experiència anterior a la universitat, vaig descobrir la programació i em vaig apassionar per aquest camp. Un cop vaig deixar el grau universitari anterior, vaig decidir estudiar un cicle formatiu d'aplicacions web al Nicolau Copèrnic. El meu objectiu és adquirir les habilitats i coneixements necessaris per poder dedicar-me professionalment a l'àmbit del desenvolupament d'aplicacions i la tecnologia.
+El Nicolau Copèrnic és un institut el qual compta amb diversos cicles d'informàtica de grau superior: Desenvolupament d'aplicacions multiplataforma (DAM), administració de sistemes informàtics en xarxa (ASIX) i desenvolupament d'aplicacions web (DAW) el qual jo estic cursant.
+
+A una experiència anterior a la universitat, vaig descobrir la programació i em vaig apassionar per aquest camp. Un cop vaig deixar el grau universitari, vaig decidir estudiar un cicle formatiu d'aplicacions web al Nicolau Copèrnic. El meu objectiu és adquirir les habilitats i coneixements necessaris per poder dedicar-me professionalment a l'àmbit del desenvolupament d'aplicacions i la tecnologia.
 
 La meva decisió de triar la modalitat DUAL de pràctiques va estar motivada principalment pels beneficis que proporciona respecte de les FCT estàndard. Un any complet en una empresa proporciona una oportunitat de desenvolupar habilitats útils al món laboral real, aprendre com funciona realment el desenvolupament a escala professional i aprendre d'altres professionals en actiu del sector. A més, les probabilitats d'aconseguir ingressar al món laboral mitjançant l'empresa on s'ha realitzat l'estada són molt altes.
 
