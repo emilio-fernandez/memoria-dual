@@ -25,6 +25,8 @@ A una experiència anterior a la universitat, vaig descobrir la programació i e
 
 La meva decisió de triar la modalitat DUAL de pràctiques va estar motivada principalment pels beneficis que proporciona respecte de les FCT estàndard. Un any complet en una empresa proporciona una oportunitat de desenvolupar habilitats útils al món laboral real, aprendre com funciona realment el desenvolupament a escala professional i aprendre d'altres professionals en actiu del sector. A més, les probabilitats d'aconseguir ingressar al món laboral mitjançant l'empresa on s'ha realitzat l'estada són molt altes.
 
+El meu principal objectiu és aconseguir aprofitar aquesta oportunitat de tal forma que, un cop terminat el període de pràctiques, l'empresa em contracti com a treballador, de forma que hauria aconseguit un any d'experiència laboral al sector i introduir-me al mercat laboral.
+
 ## 2. Dades de l'entitat <a name="dades-de-lentitat"></a>
 
 - Nom i adreça de l'entitat:
