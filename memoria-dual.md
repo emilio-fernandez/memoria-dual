@@ -29,11 +29,9 @@ El meu principal objectiu és aconseguir aprofitar aquesta oportunitat de tal fo
 
 ## 2. Dades de l'entitat <a name="dades-de-lentitat"></a>
 
-- Nom i adreça de l'entitat:
-- Descripció de les activitats de l'empresa:
-- Organigrama de l'entitat i ubicació del departament:
-- Descripció del departament:
-- Infraestructura de l'entitat i eines disponibles:
+L'entitat on he realitzat l'estada és Logic&Automatització, situada al carrer de Colom, 485, Terrassa. L'empresa es dedica específicament a l'automatització i monitoratge de plantes de producció i processos industrials amb la venda i instal·lació de maquinari específic, i també, amb el seu programari propi, el LOGiPlatform. Proporciona suport específic per a cada client, mentre continua desenvolupant i millorant el seu producte per ampliar la cobertura de necessitats i arribar a més clients.
+
+L'organització es divideix entre dos departaments; el Departament Tècnic, que s'encarrega de la programació i instal·lació del maquinari i el suport als clients i el departament de desenvolupament, que és l'encarregat de desenvolupar el LOGiPlatform, millorant-lo i solucionar errors o bugs.
 
 ## 3. Dades de l'estada <a name="dades-de-lestada"></a>
 
