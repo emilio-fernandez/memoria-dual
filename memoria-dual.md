@@ -35,18 +35,13 @@ L'organització es divideix entre dos departaments; el Departament Tècnic, que 
 
 ## 3. Dades de l'estada <a name="dades-de-lestada"></a>
 
-Tipus de contracte o beca:
-Beneficis socials:
-Total d'hores realitzades en el període de prova:
-Total d'hores realitzades com a becari o contractat:
-Temporització de l'estada:
+En el meu cas la meva estada dual ha sigut com a becari, mitjançant una beca estudiantil, el temps total realitzat com a període de prova ha sigut d'unes 100 hores durant el mes de juny de 2023. Un cop vaig finalitzar el període de prova vaig començar al 18 de setembre de 2023 fins al 13 de maig de 2024, completant així les 900 hores d'estada dual corresponent.
 
 ## 4. Relacions professionals i seguiment de l'estada <a name="relacions-professionals-i-seguiment-de-lestada"></a>
 
-Nom del tutor/a de l'institut:
-Nom del tutor/a de l'entitat i càrrec:
-Comunicació amb els tutors/es:
-Comunicació amb companys/es i usuaris:
+El meu tutor de l'institut és el Jordi Lordan Burgos. El meu tutor a l'empresa va ser el Carles Plumed, qui és el meu cap de departament, però va ser substituït pel Josep Riera, el gerent de l'empresa a la renovació de conveni per motius administratius.
+
+La comunicació tant amb els tutors com els companys és bona, responen als meus dubtes i em proporcionen ajuda i solucions quan ho requereixo.
 
 ## 5. Diari de pràctiques <a name="diari-de-practiques"></a>
 
