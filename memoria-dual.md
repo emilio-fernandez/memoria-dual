@@ -9,7 +9,8 @@
   - [3. Dades de l'estada ](#3-dades-de-lestada-)
   - [4. Relacions professionals i seguiment de l'estada ](#4-relacions-professionals-i-seguiment-de-lestada-)
   - [5. Diari de pràctiques ](#5-diari-de-pràctiques-)
-    - [Període de prova](#període-de-prova)
+      - [Període de prova](#període-de-prova)
+          - [Juny de 2023](#juny-de-2023)
       - [Tasca 1:](#tasca-1)
     - [Període de becari o contractat](#període-de-becari-o-contractat)
   - [6. Problemes sorgits en fer l'estada dual ](#6-problemes-sorgits-en-fer-lestada-dual-)
@@ -29,7 +30,7 @@ El meu principal objectiu és aconseguir aprofitar aquesta oportunitat de tal fo
 
 ## 2. Dades de l'entitat <a name="dades-de-lentitat"></a>
 
-L'entitat on he realitzat l'estada és Logic&Automatització, situada al carrer de Colom, 485, Terrassa. L'empresa es dedica específicament a l'automatització i monitoratge de plantes de producció i processos industrials amb la venda i instal·lació de maquinari específic, i també, amb el seu programari propi, el LOGiPlatform. Proporciona suport específic per a cada client, mentre continua desenvolupant i millorant el seu producte per ampliar la cobertura de necessitats i arribar a més clients.
+L'entitat on he realitzat l'estada és Logic&Automatització, situada al carrer de Colom, 485, Terrassa. L'empresa es dedica específicament a l'automatització i monitoratge de plantes de producció i processos industrials amb la venda i instal·lació de maquinari específic, i també, la distribució del seu programari propi, el LOGiPlatform. Proporciona suport específic per a cada client, mentre continua desenvolupant i millorant el seu producte per ampliar la cobertura de necessitats i arribar a més clients.
 
 L'organització es divideix entre dos departaments; el Departament Tècnic, que s'encarrega de la programació i instal·lació del maquinari i el suport als clients i el departament de desenvolupament, que és l'encarregat de desenvolupar el LOGiPlatform, millorant-lo i solucionar errors o bugs.
 
@@ -39,13 +40,25 @@ En el meu cas la meva estada dual ha sigut com a becari, mitjançant una beca es
 
 ## 4. Relacions professionals i seguiment de l'estada <a name="relacions-professionals-i-seguiment-de-lestada"></a>
 
+- Nom del tutor/a de l’institut.
+- Nom del tutor/a de l’entitat i càrrec que ocupa.
+- Com ha estat la comunicació amb els vostres tutors/es, tant el de l’institut, com el de
+l’entitat.
+- Com ha estat la comunicació amb la resta de companys/es de l’entitat i usuaris
+(clients).
+- Valoració del seguiment de la doble tutoria (entitat-institut).
+
 El meu tutor de l'institut és el Jordi Lordan Burgos. El meu tutor a l'empresa va ser el Carles Plumed, qui és el meu cap de departament, però va ser substituït pel Josep Riera, el gerent de l'empresa a la renovació de conveni per motius administratius.
 
-La comunicació tant amb els tutors com els companys és bona, responen als meus dubtes i em proporcionen ajuda i solucions quan ho requereixo.
+La comunicació tant amb els tutors com els companys ha sigut molt bona, en tot moment he tingut ajuda en cas de necessitar-la, han respost als meus dubtes i m'han proporcionat ajuda i solucions quan ho he necessitat. De la mateixa manera amb el seguiment per part de l'empresa i el centre, que m'han acompanyat supervisant el meu treball i progressos.
 
 ## 5. Diari de pràctiques <a name="diari-de-practiques"></a>
 
-### Període de prova
+#### Període de prova 
+
+###### Juny de 2023
+
+Inicialment, durant el període de prova, la meva tasca principal ha estat aprendre sobre JavaScript, ja que encara no hem començat el curs i no tenia experiència prèvia en aquest llenguatge. M'he concentrat a familiaritzar-me amb les peculiaritats del llenguatge, com el DOM, les funcions de callbacks, l'asincronia, les trucades a API externes, funcions d'objectes, etc. Amb l'ajuda de l'anterior estudiant de DUAL, que actualment és aquí, he trobat diversos cursos gratuïts de JavaScript que he seguit per aprofundir en aquests conceptes.
 
 #### Tasca 1:
 
