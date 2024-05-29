@@ -9,10 +9,10 @@
   - [3. Dades de l'estada ](#3-dades-de-lestada-)
   - [4. Relacions professionals i seguiment de l'estada ](#4-relacions-professionals-i-seguiment-de-lestada-)
   - [5. Diari de pràctiques ](#5-diari-de-pràctiques-)
-      - [Període de prova](#període-de-prova)
-          - [Juny de 2023](#juny-de-2023)
-      - [Tasca 1:](#tasca-1)
-    - [Període de becari o contractat](#període-de-becari-o-contractat)
+    - [Període de prova ](#període-de-prova-)
+    - [14 de setembre - 3 d'octubre](#14-de-setembre---3-doctubre)
+    - [4 d'octubre - 25 d'octubre](#4-doctubre---25-doctubre)
+    - [26 d'octubre - 12 de gener](#26-doctubre---12-de-gener)
   - [6. Problemes sorgits en fer l'estada dual ](#6-problemes-sorgits-en-fer-lestada-dual-)
   - [7. Valoració personal de l'estada Dual ](#7-valoració-personal-de-lestada-dual-)
 
@@ -54,13 +54,33 @@ La comunicació tant amb els tutors com els companys ha sigut molt bona, en tot 
 
 ## 5. Diari de pràctiques <a name="diari-de-practiques"></a>
 
-#### Període de prova 
+### Període de prova <a name="període-de-prova"></a>
 
-###### Juny de 2023
+Inicialment, durant el període de prova, la meva tasca principal ha estat aprendre sobre JavaScript i NodeJS, ja que encara no hem començat el curs i no tenia cap coneixement en aquest llenguatge. M'he concentrat en familiaritzar-me amb les peculiaritats del llenguatge, com el DOM, les funcions de callbacks, l'asincronia, les trucades a API externes, funcions d'objectes, etc. Amb l'ajuda d'un company, que actualment està acabant la seva estada DUAL, he trobat diversos cursos gratuïts de JavaScript que he seguit per aprofundir en aquests conceptes.
 
-Inicialment, durant el període de prova, la meva tasca principal ha estat aprendre sobre JavaScript, ja que encara no hem començat el curs i no tenia experiència prèvia en aquest llenguatge. M'he concentrat a familiaritzar-me amb les peculiaritats del llenguatge, com el DOM, les funcions de callbacks, l'asincronia, les trucades a API externes, funcions d'objectes, etc. Amb l'ajuda de l'anterior estudiant de DUAL, que actualment és aquí, he trobat diversos cursos gratuïts de JavaScript que he seguit per aprofundir en aquests conceptes.
+### 14 de setembre - 3 d'octubre
 
-#### Tasca 1:
+Un cop he finalitzat el període de prova, he començat l'estada DUAL. He començat a aprendre sobre Angular, el framework per desenvolupar la part de client que s'utilitza a l'empresa. Un cop més he començat amb cursos gratuïts i petits projectes per aprofundir en el framework.
+
+Aquesta tasca ha sigut una mica complicada, ja que en certa manera he hagut d'aprendre de manera autodidàctica, el que és una mica difícil si no tens unes guies a seguir de forma estructurada.
+
+Un cop he estat unes setmanes aprenent sobre Angular, he tingut accés a una còpia del producte de l'empresa, el LOGiPlatform, això m'ha permès aprendre sobre el projecte, i encara més, entendre com s'estructura Angular i com funciona en un projecte real.
+
+### 4 d'octubre - 25 d'octubre
+
+Un cop finalitzat el període d'aprenentatge d'Angular, he rebut la meva primera tasca amb un impacte real sobre el projecte de l'empresa. La tasca consisteix a refer la validació dels formularis de l'aplicació. Actualment, hi ha formularis amb validacions específiques a cadascun d'ells, això fa que sigui poc escalable i difícil de mantenir. L'objectiu és centralitzar-ho tot a un mòdul o servei, perquè sigui molt fàcil implementar nous formularis i la validació de les dades ràpidament.
+
+La meva idea ha estat fer un servei d'Angular que en funció d'uns models/esquemes de dades, es validin les dades obtingudes del formulari, i en cas que no siguin correctes, mostri un error en el formulari definit a l'esquema.
+
+En aquesta tasca he après més en profunditat sobre Angular, i com es realitza la comunicació entre components i serveis. La tasca ha estat realment bé, ja que he tingut l'ajuda del meu tutor el qual m'ha anat guiant una mica a l'hora de com enfocar la tasca i entendre el funcionament del projecte.
+
+### 26 d'octubre - 12 de gener
+
+Donat que el meu tutor de l'empresa ha estat subcontractat per un client, el desenvolupament de l'aplicació ha estat una mica parat. Per tant, m'han assignat una altra tasca una mica a part del projecte principal. La tasca tracta de desenvolupar una demo per a un client amb uns requisits específics amb el LOGiPlatform con a base.
+
+L'objectiu és desenvolupar una demo en la qual es pugui visualitzar dades en temps real i la seva gestió interna, a més a més de registar i consultar dades manuals. La part de gestió de dades és la part específica que s'ha de desenvolupar de forma espécifica.
+
+En aquesta tasca he tingut accés a requisits específics d'una entitat, el qual m'ha proporcionat la capacitat d'entendre el que vol el client i portar-ho a la plataforma. També ha canviat la meva mentalitat per entendre que s'han de desenvolupar les funcionalitats que demana el client, i no més enllà, ja que seria un treball extra no demanat. Igualment, m'ha aportat la capacitat d'investigar codi i com funciona en profunditat, perquè la demo estava començada però no hi havia cap documentació ni repositori de git per veure les diferències o funcionalitats afegides.
 
 - Descripció de la tasca:
 - Coneixements aplicats apresos en l'institut:
@@ -71,10 +91,6 @@ Inicialment, durant el període de prova, la meva tasca principal ha estat apren
 - Utilitat dels coneixements de l'institut:
 - Relació amb les activitats del cicle:
 - Valoració de la tasca:
-
-### Període de becari o contractat
-
-(Repetir el format anterior per cada tasca)
 
 ## 6. Problemes sorgits en fer l'estada dual <a name="problemes-sorgits-en-fer-lestada-dual"></a>
 
