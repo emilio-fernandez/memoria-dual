@@ -5,6 +5,7 @@
 - [Emilio Fernández - Memòria de l'estada dual](#emilio-fernández---memòria-de-lestada-dual)
   - [Índex](#índex)
   - [1. Presentació de l'alumne ](#1-presentació-de-lalumne-)
+    - [Vídeo de la estada DUAL](#vídeo-de-la-estada-dual)
   - [2. Dades de l'entitat ](#2-dades-de-lentitat-)
   - [3. Dades de l'estada ](#3-dades-de-lestada-)
   - [4. Relacions professionals i seguiment de l'estada ](#4-relacions-professionals-i-seguiment-de-lestada-)
@@ -12,11 +13,20 @@
     - [Període de prova ](#període-de-prova-)
     - [14 de setembre - 3 d'octubre](#14-de-setembre---3-doctubre)
     - [4 d'octubre - 25 d'octubre](#4-doctubre---25-doctubre)
+    - [26 d'octubre - 17 de novembre](#26-doctubre---17-de-novembre)
     - [26 d'octubre - 12 de gener](#26-doctubre---12-de-gener)
+    - [15 de gener - 23 de febrer](#15-de-gener---23-de-febrer)
+    - [26 de febrer - 13 de març](#26-de-febrer---13-de-març)
+    - [14 de març - 26 d'abril](#14-de-març---26-dabril)
+    - [29 d'abril - 22 de maig](#29-dabril---22-de-maig)
+    - [23 de maig - 31 de juny](#23-de-maig---31-de-juny)
   - [6. Problemes sorgits en fer l'estada dual ](#6-problemes-sorgits-en-fer-lestada-dual-)
   - [7. Valoració personal de l'estada Dual ](#7-valoració-personal-de-lestada-dual-)
 
+
 ## 1. Presentació de l'alumne <a name="presentacio-de-lalumne"></a>
+
+### [Vídeo de la estada DUAL](https://youtu.be/xIAJuJYBig4)
 
 El meu nom és Emilio Fernández Vicente i estic cursant el Cicle de Grau Superior de [Desenvolupament d'Aplicacions Web](https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0032/0155e929-9014-48a5-ab28-aa6e8e75e554/BOE_GS_Aplic_web.pdf) a l'Institut Nicolau Copèrnic, a la meva ciutat, Terrassa.
 
@@ -74,6 +84,13 @@ La meva idea ha estat fer un servei d'Angular que en funció d'uns models/esquem
 
 En aquesta tasca he après més en profunditat sobre Angular, i com es realitza la comunicació entre components i serveis. La tasca ha estat realment bé, ja que he tingut l'ajuda del meu tutor el qual m'ha anat guiant una mica a l'hora de com enfocar la tasca i entendre el funcionament del projecte.
 
+### 26 d'octubre - 17 de novembre
+
+La segona tasca he rebut ha estat realitzar un sistema de llenguatges, de tal forma que el client pugui escollir el llenguatge en el qual es mostra l'aplicació. He dissenyat un servei el qual s'inicialitza al component principal de l'aplicació i obté les paraules de l'idioma corresponent de la base de dades, després mitjançant el servei, la resta de components consulten les paraules necessàries per renderitzar la pàgina. 
+
+D'aquesta forma, només es realitza una consulta a la base de dades i el resta de components el poden consultar tantes vegades com necessitin sense afectar el rendiment del servidor. Aquesta tasca m'ha fet pensar per primera vegada en l'aplicació com a dues parts, el client i el servidor i de quina forma es pot optimitzar la funcionalitat perquè el cost de recursos sigui el mínim possible.
+
+
 ### 26 d'octubre - 12 de gener
 
 Donat que el meu tutor de l'empresa ha estat subcontractat per un client, el desenvolupament de l'aplicació ha estat una mica parat. Per tant, m'han assignat una altra tasca una mica a part del projecte principal. La tasca tracta de desenvolupar una demo per a un client amb uns requisits específics amb el LOGiPlatform con a base.
@@ -82,24 +99,59 @@ L'objectiu és desenvolupar una demo en la qual es pugui visualitzar dades en te
 
 En aquesta tasca he tingut accés a requisits específics d'una entitat, el qual m'ha proporcionat la capacitat d'entendre el que vol el client i portar-ho a la plataforma. També ha canviat la meva mentalitat per entendre que s'han de desenvolupar les funcionalitats que demana el client, i no més enllà, ja que seria un treball extra no demanat. Igualment, m'ha aportat la capacitat d'investigar codi i com funciona en profunditat, perquè la demo estava començada però no hi havia cap documentació ni repositori de git per veure les diferències o funcionalitats afegides.
 
-- Descripció de la tasca:
-- Coneixements aplicats apresos en l'institut:
-- Coneixements aplicats apresos en l'entitat:
-- Durada de la tasca:
-- Persones implicades:
-- Coneixements adquirits:
-- Utilitat dels coneixements de l'institut:
-- Relació amb les activitats del cicle:
-- Valoració de la tasca:
+### 15 de gener - 23 de febrer
+
+Durant aquest període de temps, no he tingut una tasca clara, de forma que vaig proposar la iniciativa de fer un testatge manual a fons de l'aplicació i documentar (al git issues) i resoldre els bugs que hi trobi, el meu cap directe va acceptar la proposta i l'he estat realitzant. Donat que és un projecte relativament jove i havia de satisfer moltes necessitats per començar a ser rendible, s'havia omès algunes bones pràctiques de fiabilitat i estabilitat de l'aplicació, com tests o configuracions pels desenvolupadors. 
+
+Aquesta tasca ha suposat un repte en alguns casos, ja que identificar un error i trobar l'origen en un codi sense documentar i que encara no era del tot familiar en alguns moments. Però, tot i això, vaig aconseguir resoldre uns vuit errors importants d'experiència d'usuari i uns quinze errors menors.
+
+### 26 de febrer - 13 de març
+
+Un cop he finalitzat la resolució dels errors, he rebut la tasca de desenvolupar una pantalla especial, on utilitzant un ítem anomenat "Forma" es puguin inserir diverses pantalles dins aquests elements, de tal forma que es poden realitzar diferents configuracions de continguts per a la mateixa disposició, a més a més, també desenvolupar una "Llançadora" que permeti a l'usuari enviar pantalles a altres clients.
+
+En aquesta tasca he entrat en contacte amb el protocol de comunicació MQTT, que permet enviar missatges a través d'un servidor MQTT en temps real, a través de tòpics específics. En aquesta tasca he treballat pensant en la interconnexió dels clients o com a través del servidor d'aquest protocol es poden comunicar per rebre l'enviament de les diverses pantalles.
+
+### 14 de març - 26 d'abril
+
+Aquesta tasca consisteix a fer una reestructuració al sistema d'usuaris de l'aplicació, de tal forma que es compleixin els següents requisits:
+
+- Crear un sistema de gestió d'usuaris, que permeti crear usuaris i rols amb permisos específics.
+
+- Crear un sistema de gestió de permisos, que permeti crear permisos personalitzats i definir l'accés a les diferents pantalles creades.
+
+- Crear una configuració que permeti a l'usuari definir el temps de caducitat de la seva sessió.
+
+- Crear permisos de sistema predefinits, que restringeixin l'accés a les diferents rutes de l'aplicació.
+
+- Crear un sistema de Audit Trail que permeti registrar les accions de l'usuari en un historial que es pot consultar.
+
+Aquesta ha estat fins al moment la tasca més importat i amb més impacte dins el projecte. He après a com gestionar una tasca gran, fent-la tasques més petites i més fàciles de gestionar, i mica en mica anar complint fins assolir la tasca.
+
+He tingut problemes a l'hora de tractar l'accés a les rutes en funció dels permisos, ja que en un primer moment obtenia les dades dels permisos del servidor i realitzava la comprovació amb un *Guard* d'Angular. Aquesta era una mala pràctica, ja que es podien obtenir totes les dades de l'usuari cada cop que s'accedia a una ruta. Vaig realitzar el canvi validant els permisos al servidor i retornant un codi 403 Forbidden en cas que no es permeti l'accés.
+
+### 29 d'abril - 22 de maig
+
+Un cop finalitzat el sistema d'usuaris, he rebut una altra tasca que consisteix a crear un sistema d'alarmes, que en funció d'unes variables booleanes que es llegeixen dels dispositius de control de les plantes, es gestionen d'una manera especial, avisant a l'usuari i mostrant un missatge personalitzat. 
+
+En aquest cas havia de treballar sobre el mòdul de comunicació corresponent, però, va ser desenvolupat al principi del projecte i no ha rebut cap manteniment des de llavors. Així que he proposat fer-li un refactor, i de pas, passar-ho al llenguatge TypeScript, millorant l'experiència de desenvolupament i fer quasi sense voler la documentació del mòdul sencer.
+
+La meva proposta ha estat acceptada i l'he portat a terme sense molts problemes, a més a més de realitzar la gestió d'alarmes. Un cop feta la part de comunicacions he desenvolupat tota la part front-end per poder assignar les variables com a alarmes. En aquesta tasca he pogut treballar amb el protocol de comunicació WebSockets, que permet la comunicació en temps real entre client i servidor, el qual és molt ràpid i eficient. És una tecnologia que és molt senzilla i no requereix un servidor extern com és MQTT, ja que aprofita el mateix servidor HTTP de l'aplicació.
+
+En aquesta tasca he pogut aplicar unes de les que jo hi considero bones pràctiques per un projecte, com són estils de codi únics, documentació, test, etc. El qual amb el consens dels companys vaig aplicant de mica en mica fer una transició i anar polint el projecte perquè sigui molt més fàcil de mantenir i escalar.
+
+### 23 de maig - 31 de juny
+
+En cas no he rebut una tasca directa, he proposat fer una mica de reestructuració a l'API de l'aplicació, simplificant el directori, eliminar codi obsolet i duplicat, documentar generalment el codi i actualitzar a l'última versió de NodeJS per poder treballar amb les últimes versions dels paquets.
+
+En aquesta tasca no he tingut cap problema, ha sigut un treball de simplificar codi, localitzar codi que no s'utilitza i substituir funcions de paquets que s'han modificat o han quedat en desús.
+
 
 ## 6. Problemes sorgits en fer l'estada dual <a name="problemes-sorgits-en-fer-lestada-dual"></a>
 
-- Problema 1:
-  - Procediment de resolució:
-- Problema 2:
-  - Procediment de resolució:
-    (Repetir el format per cada problema)
+Un dels problemes que em va sorgir, sobretot quan començava a treballar en el projecte, era com poder proposar el que per mi eren millores o correccions al projecte, sense molestar a la persona que va desenvolupar aquella part. Ja que és un projecte que havia de ser usable ràpidament, es van seguir males pràctiques al desenvolupament.
+
+Aquest problema el vagi solucionar acceptant inicialment les tasques, i de mica en mica, anar aportant diferents correccions i discutint-les amb l'equip, d'una manera objectiva. A poc a poc vaig anar guanyant confiança i ara no tinc cap problema a proposar millores o debatre a l'hora d'enfocar les funcionalitats.
 
 ## 7. Valoració personal de l'estada Dual <a name="valoracio-personal-de-lestada-dual"></a>
 
-(Expresar la valoración personal aquí)
+La meva estada DUAL ha estat una experiència molt bona, he après moltíssim d'altres professionals del sector, a més a més he pogut dedicar-me professionalment a ser desenvolupador web, estant a un equip real. A l'empresa he rebut una confiança i un suport que m'ha fet ser capaç de poder expressar la meva opinió i així debatre i aprendre amb els companys molt més encara.
